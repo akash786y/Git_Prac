@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: rgb(181, 218, 218);
+    list-style-type: none;
+    padding: 10px 0px 10px 0px;
+    display:flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+nav li{
+    display: inline;
+    padding: 5px 14px;
+    /* float: left; */
+}
+.container{
+    margin-top: 20px;
+    margin-left: 400px;
+    /* display: flex;
+    justify-content: inherit; */
+}
+/* .rightF{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+h1{
+    margin-left: 400px;
+}
+
+form{
+    margin-top: 20px;
+    /* list-style-type:circle; */
+}
